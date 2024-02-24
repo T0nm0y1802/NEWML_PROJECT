@@ -1,1 +1,6 @@
 ## End to End Data Science Project
+
+MLFLOW_TRACKING_URI=https://dagshub.com/T0nm0y1802/NEWML_PROJECT.mlflow \
+MLFLOW_TRACKING_USERNAME=T0nm0y1802 \
+MLFLOW_TRACKING_PASSWORD=bae0d1fa5470d500fa8078039805e8d6d93cf3e4 \
+python script.py
