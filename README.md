@@ -29,10 +29,8 @@ To get started with the project, follow these steps:
 3. Set up the environment and install dependencies: `pip install -r requirements.txt`
 4. Explore the notebooks in `/notebooks` for data analysis and model development.
 5. Run the scripts in `/scripts` for data preprocessing, model training, and deployment.
-6. Start the web application by running `python webapp/app.py` from the `/webapp` directory.
+6. Start the web application by running `python web_app.py` .
 
 
 MLFLOW_TRACKING_URI=https://dagshub.com/T0nm0y1802/NEWML_PROJECT.mlflow \
-MLFLOW_TRACKING_USERNAME=T0nm0y1802 \
-MLFLOW_TRACKING_PASSWORD=bae0d1fa5470d500fa8078039805e8d6d93cf3e4 \
-python script.py
+
