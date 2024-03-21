@@ -15,6 +15,13 @@ This project focuses on predicting math scores for students using a combination 
 - **Web Application Development:**
   - Developed a user-friendly web application using Flask framework.
   - Provided stakeholders with easy access to predictive insights.
+  - 
+![Screenshot 2024-03-18 181123 ](https://github.com/T0nm0y1802/Students_performance_predictor/assets/110462403/a0b93443-e418-4845-814f-48ada669cc0e)
+
+ ![Screenshot 2024-03-18 180939](https://github.com/T0nm0y1802/Students_performance_predictor/assets/110462403/0478d86b-c360-4b66-b7aa-286a3d22d039)
+
+
+
 
 ## Repository Structure
 - `/data`: Contains datasets used in the project.
