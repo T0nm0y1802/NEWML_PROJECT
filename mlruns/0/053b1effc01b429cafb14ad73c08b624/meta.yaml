@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/DS_ML/ML_PROJECT/mlruns/0/053b1effc01b429cafb14ad73c08b624/artifacts
+end_time: 1708784023458
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 053b1effc01b429cafb14ad73c08b624
+run_name: redolent-stork-280
+run_uuid: 053b1effc01b429cafb14ad73c08b624
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708784017074
+status: 3
+tags: []
+user_id: root
